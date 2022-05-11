@@ -6,7 +6,7 @@
 
 ### Hi there, I'm [Rama bharti](https://www.linkedin.com/in/rama-bharti-4078b718b/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+Currently pursuing a Bachelor's degree in Information Technology at College of Engineering Roorkee(COER),with extensive experience of web/Android-based applications and an interest in learning more.I am always enthusiastic about new skills to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
 
 - 💻 {( Currently working as a back-end developer at [YouthIndiaFoundation](https://www.youthindiafoundation.com/)-NewDelhi, it is a type of [NGO](https://en.wikipedia.org/wiki/Non-governmental_organization) and our team is currently working on a project named as YIE-       School. )}
