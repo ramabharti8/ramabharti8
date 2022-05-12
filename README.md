@@ -26,7 +26,7 @@ Currently pursuing a Bachelor's degree in Information Technology at College of E
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **ramabharti8@gmail.com** 
 - ⚡ Fun fact: I enjoy sketching, photography, and visiting new locations.
-- ❤️ Building a community to make an impact by training new generations on cutting edge \
+- ❤️ Building a community to make an impact by training new generations on cutting edge\
 technologies to meet future requirements.</br>
 
 
