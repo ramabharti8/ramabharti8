@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![](https://user-images.githubusercontent.com/97527733/168142675-dd1d9c28-7f9c-409d-a7bd-84d41b997961.gif)
+
 
 
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
@@ -10,7 +11,7 @@ Currently pursuing a Bachelor's degree in Information Technology at College of E
 
 - 🧑‍{(I've always been able to look at things from a different angle and attempt to see something new in them.) I hope that with each new day, I would have multiple opportunities to learn everything, which would make me extremely pleased. New technologies have always inspired me to learn while also providing me with the opportunity to learn from them.)}
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramabharti8&label=Profile%20views&color=32CD32&style=flat" alt="akankushjnvku" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramabharti8&label=Profile%20views&color=32CD32&style=flat" alt="ramabharti8" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97527733/168071345-ca49bfbc-31c9-4a53-9763-a1c208c9ce45.gif">
 
 
