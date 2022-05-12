@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/97527733/168142675-dd1d9c28-7f9c-409d-a7bd-84d41b997961.gif)
+![]("https://user-images.githubusercontent.com/97527733/168142675-dd1d9c28-7f9c-409d-a7bd-84d41b997961.gif" width="40px" height="29px")
 
 
 
