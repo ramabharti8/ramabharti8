@@ -2,9 +2,6 @@
 <a href="#"><img width="60%" height="auto" src="https://user-images.githubusercontent.com/97527733/168158378-ac773e1e-37f7-4d7e-9cb8-fd9f3bc4d6fa.gif" height="90px"/></a>
 </div>
  
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ###I'm [Rama Bharti](https://www.linkedin.com/in/rama-bharti-4078b718b/)</h1>
-
-
 <!--![](https://user-images.githubusercontent.com/97527733/168158378-ac773e1e-37f7-4d7e-9cb8-fd9f3bc4d6fa.gif)-->
 
 
@@ -12,7 +9,7 @@
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
 
-<!--### Hi there, I'm [Rama bharti](https://www.linkedin.com/in/rama-bharti-4078b718b/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">-->
+### Hi there, I'm [Rama bharti](https://www.linkedin.com/in/rama-bharti-4078b718b/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 Currently pursuing a Bachelor's degree in Information Technology at College of Engineering Roorkee(COER),with extensive experience of web/Android-based applications and an interest in learning more.I am always enthusiastic about new skills to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
