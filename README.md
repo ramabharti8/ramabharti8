@@ -85,7 +85,15 @@ technologies to meet future requirements.</br>
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ramabharti8_/)
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramabharti8" alt="Rama's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ramabharti8&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramabharti8&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramabharti8" alt="Rama's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ramabharti8&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramabharti8&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> |
+ 
+ ## 📈 My Contribution Graph
+
+<br/>
+<a href="https://github.com/ramabharti8/github-readme-activity-graph"><img alt="Rama Bharti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ramabharti8&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 
 
