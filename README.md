@@ -2,7 +2,7 @@
 <a href="#"><img width="60%" height="auto" src="https://user-images.githubusercontent.com/97527733/168158378-ac773e1e-37f7-4d7e-9cb8-fd9f3bc4d6fa.gif" height="90px"/></a>
 </div>
  
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ###I'm [Rama Bharti](https://www.linkedin.com/in/rama-bharti-4078b718b/)
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ###I'm [Rama Bharti](https://www.linkedin.com/in/rama-bharti-4078b718b/)</h1>
 
 
 <!--![](https://user-images.githubusercontent.com/97527733/168158378-ac773e1e-37f7-4d7e-9cb8-fd9f3bc4d6fa.gif)-->
