@@ -18,10 +18,10 @@ Currently pursuing a Bachelor's degree in Information Technology at College of E
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramabharti8&label=Profile%20views&color=32CD32&style=flat" alt="ramabharti8" />
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97527733/168071345-ca49bfbc-31c9-4a53-9763-a1c208c9ce45.gif">
 <a href="https://github.com/ramabharti8?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu688?label=Followers&style=social" alt="GitHub Badge"></a></p>
-
 <br>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97527733/168071345-ca49bfbc-31c9-4a53-9763-a1c208c9ce45.gif">
 
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/ramabharti2351/)
