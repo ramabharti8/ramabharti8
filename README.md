@@ -15,9 +15,9 @@ Currently pursuing a Bachelor's degree in Information Technology at College of E
 
 - 🧑‍{(I've always been able to look at things from a different angle and attempt to see something new in them.) I hope that with each new day, I would have multiple opportunities to learn everything, which would make me extremely pleased. New technologies have always inspired me to learn while also providing me with the opportunity to learn from them.)}
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramabharti8&label=Profile%20views&color=32CD32&style=flat" alt="ramabharti8" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramabharti8&label=Profile%20views&color=32CD32&style=flat" alt="ramabharti8" />
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97527733/168071345-ca49bfbc-31c9-4a53-9763-a1c208c9ce45.gif">
-<p><a href="https://github.com/ramabharti8?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu688?label=Followers&style=social" alt="GitHub Badge"></a></p>
+<a href="https://github.com/ramabharti8?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu688?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
 
 
