@@ -62,24 +62,7 @@ technologies to meet future requirements.</br>
    
    
    
- <!-- ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
- 📆 Feb,2022 - moment\
-📍 **Youth India Foundation** - New Delhi, India
-   
- -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-   📆 Feb,2022 - moment\
-   📍 **GirlScript Summer of Code** - Maharashtra, India
-   
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-   📆 Oct,2020 - moment\
-   📍 **Mackph.com** - Roorkee, India
-   
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-   📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India
 
-   </details> -->
    
 ### `💻 Languages and Tools`<img  alt="Coding" width="35" src="https://user-images.githubusercontent.com/71630336/167283646-f631f134-0457-4760-a2e8-5801d4c6a915.gif">:   
    
