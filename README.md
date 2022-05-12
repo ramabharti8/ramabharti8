@@ -59,7 +59,7 @@ technologies to meet future requirements.</br>
  - 📍 **uttkramit uchhay madhaymik vidyalay,Basuki Bihari**------------------**< 2016 >**\
    📖**Secondary Schooling**
  
-   
+   </details>
    
    
 
