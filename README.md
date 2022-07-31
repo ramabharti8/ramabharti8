@@ -11,7 +11,10 @@
 
 ### Hi there, I'm [Rama bharti](https://www.linkedin.com/in/rama-bharti-4078b718b/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="8px">
 
-Currently pursuing a Bachelor's degree in Information Technology at College of Engineering Roorkee(COER),with extensive experience of web/Android-based applications and an interest in learning more.I am always enthusiastic about new skills to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+I am presently a final-year undergraduate student pursuing a degree at COER College of Engineering, Roorkee. I'm majoring in information technology.
+
+I'm looking for fascinating chances in the web development field and have interests in AI, ML, learning new programming languages, and all of the above. I'm aiming to become a Full Stack Web Developer in the web development industry. I am also looking forward to Android's development in the upcoming years.
+
 
 - 🧑‍{(I've always been able to look at things from a different angle and attempt to see something new in them.) I hope that with each new day, I would have multiple opportunities to learn everything, which would make me extremely pleased. New technologies have always inspired me to learn while also providing me with the opportunity to learn from them.)}
 
