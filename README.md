@@ -1,5 +1,5 @@
 <div align="center">
-<a href="#"><img width="60%" height="auto" src="https://www.vecteezy.com/free-vector/female-developer" height="90px"/></a>
+<a href="#"><img width="60%" height="auto" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" height="90px"/></a>
 </div>
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rama Bharti</h1>
@@ -23,7 +23,6 @@ I'm looking for fascinating chances in the web development field and have intere
 
 
 ## 💻 Coding Profiles:
-<p align = "center"></p>
  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/ramabharti2351/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/ramabharti8/profile)
