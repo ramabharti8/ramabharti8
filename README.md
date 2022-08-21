@@ -13,8 +13,22 @@ I'm looking for fascinating chances in the web development field and have intere
 
 - 🧑‍{(I've always been able to look at things from a different angle and attempt to see something new in them.) I hope that with each new day, I would have multiple opportunities to learn everything, which would make me extremely pleased. New technologies have always inspired me to learn while also providing me with the opportunity to learn from them.)}
 
- - 📫 Reach me at :- ramabharti8@gmail.com
+- 💻 Currently working on the Web Development projects and Android App project.
+- 🔭 Simultaneously exploring <b>Web3</b>
+- 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 📫 Reach me at : **ramabharti8@gmail.com**
+</br>
 
+
+### `Coding Profiles:`
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/ramabharti2351/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/ramabharti8/profile)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/ramabharti8)
+[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@rama304)
+[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](ttps://www.interviewbit.com/profile/rama-bharti)
+[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/)
+</br>
 
 ## 💻 My Technical Skills
 
