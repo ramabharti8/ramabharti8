@@ -24,8 +24,6 @@ I'm looking for fascinating chances in the web development field and have intere
 <a href="https://github.com/ramabharti8?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu688?label=Followers&style=social" alt="GitHub Badge"></a></p>
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97527733/168071345-ca49bfbc-31c9-4a53-9763-a1c208c9ce45.gif">
-
 
 ## 💻 My Technical Skills
 
@@ -50,7 +48,7 @@ I'm looking for fascinating chances in the web development field and have intere
  ## 👩‍💻 Frameworks and Technologies I am familiar with - 
       ⪼ GitHub
       
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97527733/168071345-ca49bfbc-31c9-4a53-9763-a1c208c9ce45.gif">
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/ramabharti2351/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/ramabharti8/practice/)
