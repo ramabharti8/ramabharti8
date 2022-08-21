@@ -6,6 +6,7 @@
 
 
 <h3 align="center">I am presently a final-year undergraduate student pursuing a degree at College of Engineering Roorkee, Roorkee. I'm majoring in information technology.</h3>
+</br>
 
 
 ## 🙋‍♀️ About Me 
@@ -47,11 +48,12 @@ I'm looking for fascinating chances in the web development field and have intere
  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 </p>
+</br>
  
  ## 👩‍💻 Frameworks and Technologies I am familiar with - 
       ⪼ GitHub
      
-
+</br>
 
 ## 📊 My Github Stats
  <br/>
