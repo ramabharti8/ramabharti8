@@ -39,20 +39,8 @@ I'm looking for fascinating chances in the web development field and have intere
 
 
 ## 📊 My Github Stats
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramabharti8" alt="Rama Bharti's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ramabharti8&show_icons=true&theme=radical" alt="Rama Bharti's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankushjnvku&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
 
-  <br/>
-  <a href="https://github.com/ramabharti8/github-readme-stats"><img alt="Rama Bharti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ramabharti8&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-  <br/>
-  
-  <br/>
-  <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramabharti8&theme=dark" alt="RamaBharti"/></p>
-  </div>
-<br/>
-
-
-<br/>
-<br/>
 
 ## 📈 My Contribution Graph
 
