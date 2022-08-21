@@ -20,11 +20,6 @@ I'm looking for fascinating chances in the web development field and have intere
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramabharti8&label=Profile%20views&color=32CD32&style=flat" alt="ramabharti8" />
-<a href="https://github.com/ramabharti8?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu688?label=Followers&style=social" alt="GitHub Badge"></a></p>
-<br>
-
-
 ## 💻 My Technical Skills
 
 <p align="center">
@@ -33,21 +28,21 @@ I'm looking for fascinating chances in the web development field and have intere
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
- <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
- <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
- <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> 
+ <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
  </p>
  
  ## 👩‍💻 Frameworks and Technologies I am familiar with - 
       ⪼ GitHub
-      
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramabharti8&label=Profile%20views&color=32CD32&style=flat" alt="ramabharti8" />
+<a href="https://github.com/ramabharti8?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu688?label=Followers&style=social" alt="GitHub Badge"></a></p>
+<br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/97527733/168071345-ca49bfbc-31c9-4a53-9763-a1c208c9ce45.gif">
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/ramabharti2351/)
