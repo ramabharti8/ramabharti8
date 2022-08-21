@@ -1,5 +1,5 @@
 <div align="center">
-<a href="#"><img width="60%" height="auto" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" height="90px"/></a>
+<a href="#"><img width="60%" height="auto" src="https://www.vecteezy.com/free-vector/female-developer" height="90px"/></a>
 </div>
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rama Bharti</h1>
