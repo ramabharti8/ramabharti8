@@ -33,6 +33,7 @@ I'm looking for fascinating chances in the web development field and have intere
 </br>
 
 ## 💻 My Technical Skills
+<p align="center">
     
  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,7 +46,7 @@ I'm looking for fascinating chances in the web development field and have intere
  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-
+</p>
  
  ## 👩‍💻 Frameworks and Technologies I am familiar with - 
       ⪼ GitHub
