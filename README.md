@@ -12,7 +12,7 @@
 I'm looking for fascinating chances in the web development field and have interests in AI, ML, learning new programming languages, and all of the above. I'm aiming to become a Full Stack Web Developer in the web development industry. I am also looking forward to Android's development in the upcoming years.
 
 - 🧑‍{(I've always been able to look at things from a different angle and attempt to see something new in them.) I hope that with each new day, I would have multiple opportunities to learn everything, which would make me extremely pleased. New technologies have always inspired me to learn while also providing me with the opportunity to learn from them.)}
-- 
+
  - 📫 Reach me at :- ramabharti8@gmail.com
 
 
@@ -42,7 +42,6 @@ I'm looking for fascinating chances in the web development field and have intere
 
   <br/>
   <a href="https://github.com/ramabharti8/github-readme-stats"><img alt="Rama Bharti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ramabharti8&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-  <a href="https://github.com/ramabharti8/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramabharti88&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
   <br/>
