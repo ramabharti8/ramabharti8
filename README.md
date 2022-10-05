@@ -92,7 +92,7 @@ I'm looking for fascinating chances in the web development field and have intere
 <a href="https://github.com/ramabharti8/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ramabharti8">
 </a>
-<a href="https://github.com/ramabharti8?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu688?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ramabharti8?tab=followers"><img src="https://img.shields.io/github/followers/ramabharti8?label=Followers&style=social" alt="GitHub Badge"></a>
  
 
  
