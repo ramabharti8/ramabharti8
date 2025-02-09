@@ -7,7 +7,7 @@
 Bio:
     Name: "Rama Bharti"
     Education: "Information Technology"
-    Location: "Madhubani, Bihar, India"
+    Location: "Dwarka, Delhi, India"
     Fun Fact: "Photographer"
     
 ```
