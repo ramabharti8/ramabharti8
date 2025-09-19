@@ -64,10 +64,10 @@
 
 ## Featured Projects  
 
--  **[Job Fit Analyzer](https://github.com/ramabharti8/job-fit-analyzer)** – ATS-friendly resume analyzer that suggests improvements and missing skills.  
--  **[Real-Time Chat Application](https://github.com/ramabharti8/realtime-chat)** – Full-stack chat app with user authentication & Socket.io integration.  
--  **[Inventory Management App](https://github.com/ramabharti8/inventory-management-app)** – CRUD-based web app with Firestore backend.  
--  **[Autism Spectrum Disorder Detection](https://github.com/ramabharti8/asd-detection)** – Deep learning model with 95% accuracy using CNN + RNN.  
+-  **[Job Fit Analyzer]** – ATS-friendly resume analyzer that suggests improvements and missing skills.  
+-  **[Real-Time Chat Application]** – Full-stack chat app with user authentication & Socket.io integration.  
+-  **[Inventory Management App]** – CRUD-based web app with Firestore backend.  
+-  **[Autism Spectrum Disorder Detection]** – Deep learning model with 95% accuracy using CNN + RNN.  
 
 ---
 
