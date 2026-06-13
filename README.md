@@ -10,13 +10,12 @@ Specialized in microservices, REST APIs, AI/ML integration, and real-time system
 [![Email](https://img.shields.io/badge/Email-ramabharti.career%40gmail.com-red?style=flat&logo=gmail)](mailto:ramabharti.career@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramabharti-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ramabharti)
 [![GitHub](https://img.shields.io/badge/GitHub-ramabharti8-black?style=flat&logo=github)](https://github.com/ramabharti8)
-[![Location](https://img.shields.io/badge/Location-Delhi%2C%20India-green?style=flat&logo=googlemaps)]()
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a Full-Stack Python Developer with **1.8+ years of professional experience** building production systems at **Softcode Infotech Pvt. Ltd.** I specialize in:
 
@@ -30,7 +29,7 @@ I've shipped **20+ production projects** — from a live trading platform handli
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Full-Stack Python Developer
 **Softcode Infotech Pvt. Ltd.** | Sep 2024 – Present | Delhi, India
@@ -58,11 +57,11 @@ I've shipped **20+ production projects** — from a live trading platform handli
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ---
 
-### 1. 📈 Automated Order Flow Trading Platform
+### 1. Automated Order Flow Trading Platform
 > **Live at Softcode Infotech** · Production system used by real traders
 
 **Tech Stack:**
@@ -83,11 +82,11 @@ I've shipped **20+ production projects** — from a live trading platform handli
 - Rule-based strategy engine with max-loss limits and position sizing
 - Multi-broker order routing with failover
 
-> 🔒 Private repo (production system) — code samples available on request
+> Private repo (production system) — code samples available on request
 
 ---
 
-### 2. 🏠 AI-Powered Real Estate Advisor Platform
+### 2. AI-Powered Real Estate Advisor Platform
 > **RAG + LangChain + OpenAI** · Semantic property search & AI recommendations
 
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-black?style=flat&logo=github)](https://github.com/ramabharti8)
@@ -113,7 +112,7 @@ I've shipped **20+ production projects** — from a live trading platform handli
 
 ---
 
-### 3. 🧠 Job Application Tracker (Django)
+### 3. Job Application Tracker (Django)
 > **Production-grade Django** · Full Django ecosystem in one project
 
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-black?style=flat&logo=github)](https://github.com/ramabharti8/job-tracker-django)
@@ -138,7 +137,7 @@ I've shipped **20+ production projects** — from a live trading platform handli
 
 ---
 
-### 4. 🔬 MRI Brain Tumor Classifier
+### 4. MRI Brain Tumor Classifier
 > **Deep Learning** · CNN-based medical image classification
 
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-black?style=flat&logo=github)](https://github.com/ramabharti8/mri-tumor-classifier)
@@ -156,7 +155,7 @@ I've shipped **20+ production projects** — from a live trading platform handli
 
 ---
 
-### 5. 🤖 Headstarter AI Fellowship — 14 Production Projects
+### 5. Headstarter AI Fellowship — 14 Production Projects
 > **7 weeks · 14 projects · Top Cohort**
 
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-black?style=flat&logo=github)](https://github.com/ramabharti8/headstarter-ai-fellowship)
@@ -191,7 +190,7 @@ I've shipped **20+ production projects** — from a live trading platform handli
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | Category | Technologies |
 |----------|-------------|
@@ -206,7 +205,7 @@ I've shipped **20+ production projects** — from a live trading platform handli
 
 ---
 
-## 📊 Performance Highlights
+## Performance Highlights
 
 | Metric | Before | After | Improvement |
 |--------|--------|-------|-------------|
@@ -221,7 +220,7 @@ I've shipped **20+ production projects** — from a live trading platform handli
 
 ---
 
-## 🧩 Problem-Solving Case Studies
+## Problem-Solving Case Studies
 
 <details>
 <summary><b>Case Study 1: API Latency Crisis — Trading Platform (click to expand)</b></summary>
@@ -276,7 +275,7 @@ I've shipped **20+ production projects** — from a live trading platform handli
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -290,14 +289,14 @@ I've shipped **20+ production projects** — from a live trading platform handli
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Tech — Information Technology**
 College of Engineering Roorkee · Uttarakhand Technical University · 2019 – 2023
 
 ---
 
-## 💻 Competitive Programming
+## Competitive Programming
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-ramabharti2351-orange?style=flat&logo=leetcode)](https://leetcode.com/ramabharti2351/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-ramabharti8-green?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/ramabharti8/profile)
@@ -307,14 +306,13 @@ College of Engineering Roorkee · Uttarakhand Technical University · 2019 – 2
 
 ---
 
-## 📬 Contact
+## Contact
 
 | | |
 |--|--|
-| 📧 **Email** | [ramabharti.career@gmail.com](mailto:ramabharti.career@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/ramabharti](https://www.linkedin.com/in/ramabharti) |
-| 🐙 **GitHub** | [github.com/ramabharti8](https://github.com/ramabharti8) |
-| 📍 **Location** | Delhi, India |
+| **Email** | [ramabharti.career@gmail.com](mailto:ramabharti.career@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/ramabharti](https://www.linkedin.com/in/ramabharti) |
+| **GitHub** | [github.com/ramabharti8](https://github.com/ramabharti8) |
 
 ---
 
