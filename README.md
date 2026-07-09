@@ -137,7 +137,7 @@ I've shipped **20+ production projects** — from a live trading platform handli
 
 ---
 
-### 4. MRI Brain Tumor Classifier
+### 4. MRI Tumor Classifier & Churn Prediction Suite
 > **Deep Learning** · CNN-based medical image classification
 
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-black?style=flat&logo=github)](https://github.com/ramabharti8/mri-tumor-classifier)
