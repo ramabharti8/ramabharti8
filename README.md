@@ -148,7 +148,7 @@ I've shipped **20+ production projects** — from a live trading platform handli
 **What it does:** Classifies brain MRI scans into 4 categories (Glioma, Meningioma, Pituitary, No Tumor) via a REST API.
 
 **Results:**
-- **95%+ accuracy** on brain tumor detection
+- **91%+ accuracy** on brain tumor detection
 - Processed **1,100+ medical images** for training
 - Transfer learning with **EfficientNetB0** fine-tuned on MRI dataset
 - REST inference API: upload image → get prediction + confidence scores
